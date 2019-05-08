@@ -21,5 +21,5 @@ cd ./tf-java
 # Compile the JAVA file.
 mvn clean package
 # Run the main method.
-java -cp target/tf-java-1.0-SNAPSHOT-jar-with-dependencies.jar com.wz.tfjexample.IrisClassifier
+java -cp target/tf-java-1.0-SNAPSHOT-jar-with-dependencies.jar com.wz.tfjava.IrisPredictor
 cd ../
